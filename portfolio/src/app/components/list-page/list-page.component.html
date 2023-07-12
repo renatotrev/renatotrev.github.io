@@ -1,0 +1,6 @@
+<category *ngFor="let category of items"
+    [category]="category"
+    [collapsed]="collapsedCategories[category.id]"
+    (categoryClicked)="categoryClicked($event)">
+    {{ category.name }}
+</category>

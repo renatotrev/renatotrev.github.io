@@ -1,0 +1,6 @@
+<section (click)="clicked($event, category.id)" [ngClass]="{'-collapsed': collapsed}">
+    <p class="title">{{ category.name }}</p>
+    <section class="content"  [ngClass]="{'-collapsed': collapsed}">
+        <item *ngFor="let item of category.items" [item]="item"></item>
+    </section>
+</section>

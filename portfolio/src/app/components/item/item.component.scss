@@ -1,0 +1,17 @@
+:host {
+    width: 200px;
+    height: 180px;
+    border:1px solid;
+    border-radius: 8px;
+    margin: 8px;
+    display: block;
+    text-align: center;
+
+    > .name {
+      margin-top: 8px;
+    }
+
+    > img {
+      margin-top: 8px
+    }
+}

@@ -1,0 +1,222 @@
+
+[
+    {
+        "name": "Armor",
+        "id": "armor",
+        "items": [
+            {
+                "name": "Barbarian Helm",
+                "image": "//cdn.wikimg.net/en/zeldawiki/images/thumb/a/aa/TotK_Barbarian_Helm_Icon.png/120px-TotK_Barbarian_Helm_Icon.png"
+            },
+            {
+                "name": "Barbarian Armor",
+                "image": "//cdn.wikimg.net/en/zeldawiki/images/thumb/e/ee/TotK_Barbarian_Armor_Icon.png/120px-TotK_Barbarian_Armor_Icon.png"
+            },
+            {
+                "name": "Barbarian Leg Wraps",
+                "image": "//cdn.wikimg.net/en/zeldawiki/images/thumb/3/31/TotK_Barbarian_Leg_Wraps_Icon.png/120px-TotK_Barbarian_Leg_Wraps_Icon.png"
+            },
+            {
+                "name": "Barbarian Leg Wraps",
+                "image": "//cdn.wikimg.net/en/zeldawiki/images/thumb/3/31/TotK_Barbarian_Leg_Wraps_Icon.png/120px-TotK_Barbarian_Leg_Wraps_Icon.png"
+            },
+            {
+                "name": "Barbarian Helm",
+                "image": "//cdn.wikimg.net/en/zeldawiki/images/thumb/a/aa/TotK_Barbarian_Helm_Icon.png/120px-TotK_Barbarian_Helm_Icon.png"
+            },
+            {
+                "name": "Barbarian Armor",
+                "image": "//cdn.wikimg.net/en/zeldawiki/images/thumb/e/ee/TotK_Barbarian_Armor_Icon.png/120px-TotK_Barbarian_Armor_Icon.png"
+            },
+            {
+                "name": "Barbarian Leg Wraps",
+                "image": "//cdn.wikimg.net/en/zeldawiki/images/thumb/3/31/TotK_Barbarian_Leg_Wraps_Icon.png/120px-TotK_Barbarian_Leg_Wraps_Icon.png"
+            },
+            {
+                "name": "Barbarian Leg Wraps",
+                "image": "//cdn.wikimg.net/en/zeldawiki/images/thumb/3/31/TotK_Barbarian_Leg_Wraps_Icon.png/120px-TotK_Barbarian_Leg_Wraps_Icon.png"
+            }
+        ]
+    },
+    {
+        "name": "Bows and Arrows",
+        "id": "bows_and_arrows",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Shields",
+        "id": "shields",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Fused Shields",
+        "id": "fused_shields",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Weapons",
+        "id": "weapons",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Fused Weapons",
+        "id": "fused_weapons",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Materials",
+        "id": "materials",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Foods",
+        "id": "foods",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Zonai Devices",
+        "id": "zonai_devices",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Key Items",
+        "id": "key_items",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Ancient Powers",
+        "id": "ancient_powers",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Sage Avatar",
+        "id": "sage_avatar",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Paraglider Fabric",
+        "id": "paraglider_fabric",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Bridles",
+        "id": "bridles",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Saddles",
+        "id": "saddles",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Manes",
+        "id": "manes",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Other Items",
+        "id": "other_items",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Pictures",
+        "id": "pictures",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "name": "Rupees",
+        "id": "rupees",
+        "items": [
+            {
+                "name": "",
+                "image": ""
+            }
+        ]
+    }
+]
+
